@@ -28,3 +28,4 @@ for(int i=0;i<arr_size;i++)
     cout<<arr_size-maxRepeat<<endl;
 }
 }
+// Soolved and accepted
